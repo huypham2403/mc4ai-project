@@ -10,5 +10,5 @@ Phạm Lê Tường Huy|11CT2|phamletuonghuy2403@gmail.com
 
 Chức năng|Người thực hiện|Ngày hoàn thành dự kiến
 -|-|-
-Hệ thống phát hiện xe hơi|Nguyễn Việt Hà|30/04/23
-Hệ thống nhận biết loại xe|Nguyễn Việt Hà|30/04/23
+Hệ thống phát hiện xe hơi|Phạm Lê Tường Huy|30/04/23
+Hệ thống nhận biết loại xe|Phạm Lê Tường Huy|30/04/23
