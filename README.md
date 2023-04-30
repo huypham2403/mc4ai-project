@@ -10,9 +10,5 @@ Phạm Lê Tường Huy|11CT2|phamletuonghuy2403@gmail.com
 
 Chức năng|Người thực hiện|Ngày hoàn thành dự kiến
 -|-|-
-Danh sách học sinh|Nguyễn Việt Hà|30/04/23
-Phân tích số lượng học sinh|Nguyễn Việt Hà|30/04/23
-Phân tích điểm thi|Lê Nguyễn Thanh Huy|30/04/23
-Clustering|Lê Nguyễn Thanh Huy|30/04/23
-Regression|Nguyễn Việt Hà|30/04/23
-Classify|Lê Nguyễn Thanh Huy|30/04/23
+Hệ thống phát hiện xe hơi|Nguyễn Việt Hà|30/04/23
+Hệ thống nhận biết loại xe|Nguyễn Việt Hà|30/04/23
