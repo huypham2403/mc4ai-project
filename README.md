@@ -3,8 +3,8 @@ Họ Tên|Lớp|Email
 -|-|-
 Phạm Lê Tường Huy|11CT2|phamletuonghuy2403@gmail.com
 # Thông tin project
-## Đề tài: Phân tích điểm thi lớp Python4AI 092022
-## Các thư viện sử dụng: `numpy, matplotlib, scikit-learn, plotly`
+## Đề tài: Hệ thống phát hiện xe hơi đậu trước nhà
+## Các thư viện sử dụng: `OpenCV, torch, torchvision, Pillow, tqdm, pygame`
 
 ## Các chức năng chính & kế hoạch thực hiện
 
