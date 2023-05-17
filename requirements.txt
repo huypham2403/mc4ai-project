@@ -7,4 +7,3 @@ opencv-python==4.7.0.72
 scikit-learn==1.2.2
 pygame==2.3.0
 tqdm~=4.65.0
-tensorflow~=2.12.0
